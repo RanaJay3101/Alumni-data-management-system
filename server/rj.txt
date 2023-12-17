@@ -1,0 +1,10 @@
+moduels 
+
+jsonwebtoken
+joi
+joi-password-complexity
+express
+mongoose
+cors
+dotenv
+bycrpy
